@@ -39,7 +39,7 @@ const Index = () => {
       <header className="bg-primary text-primary-foreground py-4 px-6">
         <div className="max-w-[1400px] mx-auto flex items-center justify-between">
           <h1 className="text-lg md:text-xl font-bold tracking-wide" style={{ fontFamily: '"Times New Roman", Times, serif' }}>
-            🎯 Progress your Success with <span className="text-primary-foreground/90">HabitTracker</span>
+            🎯 Progress your Success with <span className="text-primary-foreground/90">Habit-Tracker</span>
           </h1>
           <div className="text-sm font-medium opacity-90">
             📅 {formattedDate}
